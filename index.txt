@@ -1,3 +1,10 @@
+
 finally solving the merge confilict 
 spoke with the other person 
-this the final file 
+this the final file
+
+hello this the practise session on git 
+branch 
+merge conflict
+git config
+
