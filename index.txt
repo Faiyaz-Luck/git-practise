@@ -1,3 +1,3 @@
 Line 1
-Line 2
+working in master for mrege conflict line demo 
 Line 3
